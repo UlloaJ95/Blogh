@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "languageCode = \"en-us\"\ntitle = \"Aerial\"\nbaseurl = \"http://example.org/\"\ntheme = \"aerial\"\n\n[params]\n  name = \"Adam Jensen\"\n  about = \"Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this\"\n  copyright = \"Untitled\"\n  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.\n  bg_scroll = \"\"\n  favicon = \"favicon.ico\"\n\n[[params.social]]\n  medium = \"Twitter\"\n  icon = \"twitter\"\n  link = \"#\"\n\n[[params.social]]\n  medium = \"Facebook\"\n  icon = \"facebook\"\n  link = \"#\"\n\n[[params.social]]\n  medium = \"Dribbble\"\n  icon = \"dribbble\"\n  link = \"#\"\n\n[[params.social]]\n  medium = \"Github\"\n  icon = \"github\"\n  link = \"#\"\n\n[[params.social]]\n  medium = \"Email\"\n  icon = \"envelope-o\"\n  link = \"#\"\n",
+    "created" : 1505914642872.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1327755505",
+    "id" : "D9724D2C",
+    "lastKnownWriteTime" : 1505914641,
+    "last_content_update" : 1505914783810,
+    "path" : "C:/Users/One/Desktop/Blogh/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
